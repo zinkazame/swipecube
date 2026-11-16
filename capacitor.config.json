@@ -1,0 +1,9 @@
+{
+  "appId": "com.swipecube.game",
+  "appName": "Swipe Cube",
+  "webDir": "www",
+  "backgroundColor": "#0e1117",
+  "android": {
+    "allowMixedContent": false
+  }
+}

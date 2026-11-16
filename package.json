@@ -1,0 +1,15 @@
+{
+  "name": "swipe-cube",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Swipe Cube - a 3D Rubik's cube game for Android",
+  "scripts": {
+    "build": "python3 build.py",
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}
